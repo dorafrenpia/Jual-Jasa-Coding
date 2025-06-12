@@ -34,7 +34,7 @@ header {
   height: auto;
   position: fixed;
   bottom: 150px;
-  left: 100px;
+  right: 100px;
   z-index: 1000;
   cursor: pointer;
   animation: pulse 1.5s infinite;
@@ -242,7 +242,7 @@ header {
   height: auto;
   position: fixed;
   bottom: 100px;
-  left: 20px;
+  right: 20px;
   z-index: 1000;
   cursor: pointer;
   animation: pulse 1.5s infinite;
